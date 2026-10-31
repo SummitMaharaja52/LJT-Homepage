@@ -40,25 +40,8 @@ comments:
   provider               :
   disqus:
     shortname            :
- discourse:
+  discourse:
     server               :
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601"
-        timezone         : ""
 atom_feed:
   hide                   : false
   path                   :
