@@ -16,7 +16,13 @@ Personal Details
 * **Position:** First-year PhD candidate at HKUST NLP Group
 * **PhD Supervisor:** Professor Junxian He
 * **Research Focus:** Natural Language Processing and Machine Learning
-* **Research Interests:** LLM Reasoning and Reinforcement Learning; Hallucination in Vision-Language Models (VLM); LLM Truthfulness and Interpretability
+
+Research Interests
+======
+
+* LLM Reasoning and Reinforcement Learning
+* Hallucination in Vision-Language Models (VLM)
+* LLM Truthfulness and Interpretability
 
 Academic Background
 ======
