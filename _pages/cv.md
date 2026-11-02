@@ -14,7 +14,6 @@ Education
 * Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024 – Present
   * Supervisor: Professor Junxian He
 * B.Eng., Shanghai Jiao Tong University, 2020 – 2024 (graduated June 2024)
-* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
 Research Experience
 ======
@@ -40,3 +39,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards
+======
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
